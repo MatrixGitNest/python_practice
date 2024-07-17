@@ -26,5 +26,5 @@ print(courses[1:9:3])
 
 #print all from 1 
 courses=['car','bike','plane','ship','ATV','tank']
-print(courses[1:2])    
+print(courses[1:])    
 
